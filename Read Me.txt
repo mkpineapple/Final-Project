@@ -1,0 +1,5 @@
+1. If there are compressed files, just uncompress the file and put files into the current directionary. reason: I cannot upload a file more than 25MB.
+
+2. I already saved four models, so running ****reload.py to check the final result. 
+
+
